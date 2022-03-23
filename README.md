@@ -1,6 +1,8 @@
 # Assignment4
 
-![image](https://user-images.githubusercontent.com/101176588/159726622-1e43f05f-8968-4582-9e5a-5b2ee21e1d61.png)
+![image](https://user-images.githubusercontent.com/101176588/159728690-c74d2068-454d-4e36-af3e-ca2bc8404418.png)
+![image](https://user-images.githubusercontent.com/101176588/159728789-e2bc4e00-d19f-431a-b421-f97143785df2.png)
+![image](https://user-images.githubusercontent.com/101176588/159728878-5caca7e2-e373-4425-a7be-801560abc0be.png)
 
 
 
