@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
          val dialogPicker=DatePickerDialog(this,DatePickerDialog.OnDateSetListener { datePicker, yYear, mMonth, mDay ->
              dateTimeTextView.setText(""+mDay+"/"+mMonth+"/"+yYear)
              ageText.text=(year-yYear).toString()
-             infosText.text=("$yYear,$mMonth,$mDay,$minutes").toString()
+             infosText.text=("${year-yYear},${month-mMonth},${day-mDay},${minutes}").toString()
 
          },year,month,day)
             //show the dialog message
