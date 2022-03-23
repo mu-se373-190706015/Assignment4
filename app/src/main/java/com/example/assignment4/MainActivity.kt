@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
         val day=c.get(Calendar.DAY_OF_MONTH)
         val minutes=c.get(Calendar.MINUTE)
 
-        //when İf you click to the button
+
         btn.setOnClickListener {
          val dialogPicker=DatePickerDialog(this,DatePickerDialog.OnDateSetListener { datePicker, yYear, mMonth, mDay ->
              dateTimeTextView.setText(""+mDay+"/"+mMonth+"/"+yYear)
